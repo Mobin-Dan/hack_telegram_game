@@ -19,12 +19,3 @@
 <h4>pip install pyautogui</h4>
 <h4>python Termux_learning.py</h4>
 
-<h2>Termux</h2>
-<h4>apt update</h4>
-<h4>pkg install git</h4>
-<h4>pkg install python</h4>
-<h4>git clone https://github.com/Mobin-Dan/hack_telegram_game</h4>
-<h4>cd hack_telegram_game</h4>
-<h4>pip install colorama</h4>
-<h4>pip install pyautogui</h4>
-<h4>python Termux_learning.py</h4>
